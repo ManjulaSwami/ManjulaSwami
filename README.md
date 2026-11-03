@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2E1065,50:7C3AED,100:EC4899&section=header&animation=fadeIn" width="100%" alt="Purple software testing header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1E1B4B,35:6D28D9,70:C026D3,100:F9A8D4&section=header&animation=twinkling" width="100%" alt="Purple and pink QA profile banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=38&duration=2500&pause=1200&color=FFFFFF&center=true&vCenter=true&repeat=false&width=850&height=80&lines=MANJULA+SWAMI" alt="Manjula Swami"/>
+<h1 align="center">MANJULA SWAMI</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=F5D0FE&center=true&vCenter=true&width=850&height=55&lines=Software+Tester+%7C+QA+%7C+Manual+Testing;Interested+in+Automation+%26+API+Testing;Finding+Bugs+%7C+Improving+Software+Quality" alt="Animated software testing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=25&duration=2600&pause=900&color=FCE7F3&center=true&vCenter=true&width=900&height=55&lines=Software+Tester+%7C+QA+%7C+Manual+Testing;Exploring+Automation+Testing+%26+API+Testing;Testing+with+curiosity.+Improving+with+every+bug." alt="Animated QA introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/EXPERIENCE-6%20MONTHS-7C3AED?style=for-the-badge&labelColor=2E1065" alt="Six months experience"/>
-<img src="https://img.shields.io/badge/ROLE-QA%20%2F%20MANUAL%20TESTER-9333EA?style=for-the-badge&labelColor=2E1065" alt="QA Manual Tester"/>
-<img src="https://img.shields.io/badge/LOCATION-RATNAGIRI%2C%20INDIA-DB2777?style=for-the-badge&labelColor=2E1065" alt="Location"/>
+<img src="https://img.shields.io/badge/EXPERIENCE-6%20MONTHS-9333EA?style=for-the-badge&labelColor=1E1B4B" alt="6 months experience"/>
+<img src="https://img.shields.io/badge/ROLE-QA%20%2F%20MANUAL%20TESTER-C026D3?style=for-the-badge&labelColor=1E1B4B" alt="QA Manual Tester"/>
+<img src="https://img.shields.io/badge/BASED%20IN-RATNAGIRI%2C%20INDIA-DB2777?style=for-the-badge&labelColor=1E1B4B" alt="Ratnagiri India"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20QUALITY-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="Software quality"/>
 
 <br/><br/>
 
@@ -20,55 +21,47 @@
 <a href="mailto:manjulaswami27092002@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=ManjulaSwami&style=for-the-badge&color=C026D3&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" alt="About me"/>
 </div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ### Hello, I'm Manjula 👋
 
 I am a **Software Tester** from Ratnagiri, Maharashtra, India, with **6 months of internship experience as a QA / Manual Tester at Pleximus Inc.**
 
-I enjoy understanding application requirements, preparing test cases, executing test scenarios, identifying defects, and helping improve software quality. I am also interested in expanding my skills in **Automation Testing and API Testing**.
+I am interested in software quality and enjoy exploring applications, understanding requirements, preparing test cases, executing test scenarios, and identifying defects.
 
-- 🧪 Interested in Software Testing and Quality Assurance
-- 🔍 Manual testing, test case design and bug reporting
-- 📝 Preparing test scenarios and documenting test results
-- 🤖 Interested in learning and working with Automation Testing
-- 🔗 Interested in API Testing
-- 📍 Ratnagiri, Maharashtra, India
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-### My QA Focus
-
-- Functional Testing
-- Manual Testing
-- Test Case and Test Scenario Design
-- Bug / Defect Reporting
-- Regression Testing
-- Smoke and Sanity Testing
-- SDLC and STLC fundamentals
-- Severity and Priority analysis
+- 🧪 Focused on **Manual Testing**
+- 🔍 Interested in **Software Quality Assurance**
+- 🤖 Exploring **Automation Testing**
+- 🔗 Interested in **API Testing**
+- 📝 Enjoy test case design and defect documentation
+- 🌱 Always learning and improving my testing skills
 
 </td>
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-```yaml
+```bash
+$ whoami
+manjula-swami
+
+$ cat profile.yml
 name: Manjula Swami
 role: Software Tester
 location: Ratnagiri, India
 
 experience:
-  role: QA / Manual Tester Intern
+  position: QA / Manual Tester Intern
   duration: 6 months
   company: Pleximus Inc.
 
@@ -77,147 +70,152 @@ interests:
   - Automation Testing
   - API Testing
 
-status: Learning and growing
+$ echo $MINDSET
+LEARN | TEST | IMPROVE
 ```
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
+> **My approach:** Understand the requirement, think from the user's perspective, test carefully, and report defects clearly.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TESTING+TOOLKIT" alt="Testing toolkit"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=HOW+I+APPROACH+TESTING" alt="How I approach testing"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Manual%20Testing-7C3AED?style=for-the-badge" alt="Manual Testing"/>
-<img src="https://img.shields.io/badge/Test%20Case%20Design-9333EA?style=for-the-badge" alt="Test Case Design"/>
-<img src="https://img.shields.io/badge/Bug%20Reporting-C026D3?style=for-the-badge" alt="Bug Reporting"/>
-<img src="https://img.shields.io/badge/Regression%20Testing-DB2777?style=for-the-badge" alt="Regression Testing"/>
+```mermaid
+flowchart LR
+    A([📋 Understand Requirements]) --> B[🧠 Identify Test Scenarios]
+    B --> C[📝 Prepare Test Cases]
+    C --> D[▶️ Execute Test Cases]
+    D --> E{Expected Result?}
+    E -->|No| F[🐞 Report Defect]
+    E -->|Yes| G[✅ Record Test Result]
+    F --> H[🔁 Retest After Fix]
+    H --> G
+    G --> I([📊 Test Summary])
+
+    classDef start fill:#3B0764,stroke:#C084FC,color:#FFFFFF,stroke-width:2px;
+    classDef process fill:#581C87,stroke:#D8B4FE,color:#FFFFFF,stroke-width:2px;
+    classDef decision fill:#86198F,stroke:#F0ABFC,color:#FFFFFF,stroke-width:2px;
+    classDef finish fill:#831843,stroke:#F9A8D4,color:#FFFFFF,stroke-width:2px;
+    class A,I start;
+    class B,C,D,F,G,H process;
+    class E decision;
+```
 
 </div>
 
-| Area | Skills / Tools |
-|:---|:---|
-| **Testing** | Manual Testing, Functional Testing, Regression Testing, Smoke Testing, Sanity Testing |
-| **Test Documentation** | Test Cases, Test Scenarios, Test Reports, Bug Reports |
-| **Testing Concepts** | SDLC, STLC, Severity, Priority, Defect Life Cycle |
-| **Automation** | Interested in Automation Testing; building skills in this area |
-| **API Testing** | Interested in API Testing; building skills in this area |
-| **Programming / Database** | Core Java, MySQL |
-| **Tools** | Selenium (learning/practice), Excel |
-
-> I am continuously improving my testing knowledge and practical skills. The areas marked as interests or learning goals are not claimed as professional project experience.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=QA+EXPERIENCE" alt="QA experience"/>
-</div>
-
-### QA / Manual Tester Intern — Pleximus Inc.
-
-**Duration:** 6 months
-
-During my internship, I worked on testing web application modules and supporting QA activities.
-
-**Work highlights**
-- Prepared test cases for application login and form functionality.
-- Created test scenarios based on given requirements.
-- Tested website modules and checked the behaviour of UI elements.
-- Identified and documented defects in Excel.
-- Checked functionality across different modules.
-- Reported observations to support application quality improvements.
-
-**Testing assignments included**
-- Kesar Control Website — form test cases and website testing.
-- Tenant Management System — login page test cases.
-- Promantas System — checking module functionality and UI controls.
-- Excel-based validation — comparing values and recording differences.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=PROJECTS+%26+PRACTICE" alt="Projects and practice"/>
-</div>
-
-### 🔐 LockBox — Password Manager
-
-A web-based password manager project.
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL
-
-**QA practice ideas**
-- Validate signup and login forms.
-- Check password creation, update and deletion.
-- Test input validations and error messages.
-- Verify access to protected dashboard pages.
-
-### 🌿 Niramay Yoga Classes Website
-
-A website designed to provide information and access to yoga class services.
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
-
-**QA practice ideas**
-- Check navigation and page links.
-- Validate user registration and login forms.
-- Test form fields, messages and responsive layouts.
-
-### 🍽️ Restaurant Master
-
-A web application for restaurant billing and purchase summaries.
-
-**Technologies:** HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
-
-**QA practice ideas**
-- Verify billing calculations.
-- Test form validations and data entry.
-- Check purchase summaries and displayed values.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=A855F7&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TESTING+SKILLS+%26+TOOLKIT" alt="Testing skills and toolkit"/>
 </div>
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username. -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics"/>
+<img src="https://img.shields.io/badge/Manual%20Testing-7C3AED?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Manual Testing"/>
+<img src="https://img.shields.io/badge/Functional%20Testing-9333EA?style=for-the-badge" alt="Functional Testing"/>
+<img src="https://img.shields.io/badge/Regression%20Testing-C026D3?style=for-the-badge" alt="Regression Testing"/>
+<img src="https://img.shields.io/badge/Smoke%20Testing-DB2777?style=for-the-badge" alt="Smoke Testing"/>
+<img src="https://img.shields.io/badge/Sanity%20Testing-9D174D?style=for-the-badge" alt="Sanity Testing"/>
+
+</div>
+
+| Domain | Skills / Knowledge |
+|:---:|:---|
+| 🧪 **Testing Types** | Manual, Functional, Regression, Smoke, Sanity |
+| 📝 **Test Documentation** | Test Scenarios, Test Cases, Test Execution, Bug Reports |
+| 🐞 **Defect Management** | Bug Identification, Defect Reporting, Severity, Priority, Retesting |
+| 🔄 **Testing Process** | SDLC, STLC, Defect Life Cycle |
+| 🤖 **Automation Testing** | Area of interest / developing skills |
+| 🔌 **API Testing** | Area of interest / developing skills |
+| 💻 **Technical Skills** | Core Java, MySQL, Excel |
+
+<div align="center">
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=java,mysql,git,github,vscode&theme=light&perline=6" alt="Technical tools and technologies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
+<img src="https://img.shields.io/badge/Selenium-Learning-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium learning"/>
+
+</div>
+
+<sub>Note: Automation Testing, API Testing and Selenium are areas of interest or learning, not claimed as professional experience.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=PROFESSIONAL+EXPERIENCE" alt="Professional experience"/>
+</div>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🧪 QA / Manual Tester Intern
+
+**Pleximus Inc.** · **6 Months**
+
+- Performed manual testing of web application features and modules.
+- Prepared test cases and test scenarios based on assigned requirements.
+- Executed test cases and verified actual results against expected results.
+- Identified UI and functional issues and documented defects.
+- Maintained testing observations and defect details using Excel.
+- Checked form fields, validations, buttons, and module-level functionality.
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" alt="GitHub analytics"/>
+</div>
+
+<div align="center">
+
+<a href="https://github.com/ManjulaSwami">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ManjulaSwami&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages"/>
+<a href="https://github.com/ManjulaSwami">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManjulaSwami&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ManjulaSwami&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2E1065,50:C084FC,100:EC4899" width="100%" alt="Section divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:1E1B4B,50:C084FC,100:F9A8D4" width="100%" alt="Section divider"/>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=1500&pause=1000&color=C084FC&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" alt="Let's connect"/>
 
-### 🤝 Let's Connect
-
-I am interested in opportunities and learning experiences in **Software Testing and Quality Assurance**. Feel free to connect with me.
+I am interested in opportunities in **Software Testing and Quality Assurance**.
 
 <a href="https://www.linkedin.com/in/manjula-swami-3a9399357">
-  <img src="https://img.shields.io/badge/LinkedIn-Manjula%20Swami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Manjula%20Swami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 <a href="mailto:manjulaswami27092002@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Manjula"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2E1065,50:7C3AED,100:EC4899&section=footer" width="100%" alt="Purple footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1E1B4B,35:6D28D9,70:C026D3,100:F9A8D4&section=footer" width="100%" alt="Purple pink footer"/>
 
-**Thank you for visiting my profile! 💜**
+**Thanks for visiting my profile! 💜**
 
 </div>
